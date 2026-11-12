@@ -1,3 +1,3 @@
 # trabalho-estudantil
-estou fazendo um trabalho de faculdade de cibersegurança
-estarei criando e passando meus códigos para o Github
+Sou um estudante brasileiro de Cibersegurança na Universidade Anhanguera.
+Estou fazendo trabalhos do curso de Tecnólogo de Cibersegurança e estarei usando esse repositório para passar meus códigos para o Github
